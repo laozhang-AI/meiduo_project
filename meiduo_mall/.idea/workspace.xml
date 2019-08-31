@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="797dbc6c-6391-4420-b9c7-e284e81338fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+    <list default="true" id="797dbc6c-6391-4420-b9c7-e284e81338fc" name="Default" comment="7-">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/QQ-weixin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/adv01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/adv02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/banner01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/banner02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/banner03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/bar_code.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/cat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/clock.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/clock.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/find-password.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/goods/goods001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/goods/goods002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/goods/goods003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/goods/goods004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/goods/goods005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/goods/goods006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/goods/goods007.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/goods/goods008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/goods/goods009.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/goods_450.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/icons02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/interval_line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/left_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/login_banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/logo02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/missing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/pay_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/pic_code.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/register_banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/shine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/shop_cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/slide01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/slide02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/slide03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/slide04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/stars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/time_count_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/d45cd2aa-e78f-4d41-b2d7-3146269ad429.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/d45cd2aa-e78f-4d41-b2d7-3146269ad429/storage.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/cart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/jquery.pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/goods_judge.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/axios-0.18.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/cart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/detail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/goods_judge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/host.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery-1.12.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.pagination.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/oauth_callback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/order_success.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/place_order.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/register.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/slide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/user_center_info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/user_center_order.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/user_center_pass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/user_center_site.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vue-2.5.16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/oauth_callback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/order_success.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/pay_success.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/place_order.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register_vue.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/user_center_info.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/user_center_order.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/user_center_pass.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/user_center_site.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/__init__.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meiduo_mall/__init__.py" afterPath="$PROJECT_DIR$/meiduo_mall/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meiduo_mall/settings/dev.py" afterPath="$PROJECT_DIR$/meiduo_mall/settings/dev.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,17 +133,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dev.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dev.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/meiduo_mall/settings/dev.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3140">
-              <caret line="149" column="0" lean-forward="false" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+            <state relative-caret-position="256">
+              <caret line="116" column="53" lean-forward="false" selection-start-line="116" selection-start-column="53" selection-end-line="116" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="console.sql" pinned="false" current-in-tab="true">
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d45cd2aa-e78f-4d41-b2d7-3146269ad429/console.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -147,7 +239,7 @@
     <option name="x" value="65" />
     <option name="y" value="24" />
     <option name="width" value="1259" />
-    <option name="height" value="792" />
+    <option name="height" value="793" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -496,7 +588,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567234461120</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="6-配置mysql">
+      <created>1567235434323</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567235434323</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -509,18 +608,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1259" height="792" extended-state="6" />
+    <frame x="65" y="24" width="1259" height="793" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17009039" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20295809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32949877" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949877" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41319942" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41260746" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -561,7 +660,8 @@
     <MESSAGE value="2-配置生产文件" />
     <MESSAGE value="4-配置jinjia2模板" />
     <MESSAGE value="5-配置redis的配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="5-配置redis的配置" />
+    <MESSAGE value="6-配置mysql" />
+    <option name="LAST_COMMIT_MESSAGE" value="6-配置mysql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -634,18 +734,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meiduo_mall/settings/dev.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3140">
-          <caret line="149" column="0" lean-forward="false" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d45cd2aa-e78f-4d41-b2d7-3146269ad429/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/settings/dev.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="116" column="53" lean-forward="false" selection-start-line="116" selection-start-column="53" selection-end-line="116" selection-end-column="53" />
           <folding />
         </state>
       </provider>
